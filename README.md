@@ -1,13 +1,10 @@
 # Reading-notes
-reading journal for code fellows
+Reading journal for Code fellows by Diontre 
 
 ## Table Of Contents
 
-Class 201 (reading-notes/notes.md)
-Class 301 
-Class 401
 
-### 201 Notes
+### Notes
 
 - [Class 1 Reading Notes](201/class1.md)
 - ~~Code 102 - Intro to Software Development~~
