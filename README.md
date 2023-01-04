@@ -1,4 +1,4 @@
-# reading-notes
+# Reading-notes
 reading journal for code fellows
 
 ## Table Of Contents
