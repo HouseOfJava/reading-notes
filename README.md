@@ -1,7 +1,7 @@
 # Reading-notes
 Reading journal for Code fellows by Diontre 
 
-## `#0969DA`Table Of Contents
+## Table Of Contents
 
 
 ### Notes
