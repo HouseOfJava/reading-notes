@@ -12,6 +12,7 @@ Reading journal for Code fellows by Diontre
 - Code 401 - Advanced Software Development
   - ![Growth Mindset ](https://github.com/houseofjavascript/reading-notes/blob/main/Python%20401)
   - ![SQL and Databases](https://github.com/houseofjavascript/reading-notes/blob/main/Databases%20and%20SQL)
+  - ![Terminal Practice]()
 
 
 
