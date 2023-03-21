@@ -10,10 +10,10 @@ Reading journal for Code fellows by Diontre
 - ~~Code 201 - Foundations of Software Development~~
 - ~~Code 301 - Intermediate Software Development~~
 - Code 401 - Advanced Software Development
-  - ![Growth Mindset ](https://github.com/houseofjavascript/reading-notes/blob/main/Python%20401)
-  - ![SQL and Databases](https://github.com/houseofjavascript/reading-notes/blob/main/Databases%20and%20SQL)
-  - ![Terminal Practice]()
-  - ![Data Strucutures and Algorithms Notes](https://github.com/houseofjavascript/reading-notes/blob/main/Data%20Structures%20and%20Algorithms)
+  - [Growth Mindset ](https://github.com/houseofjavascript/reading-notes/blob/main/Python%20401)
+  - [SQL and Databases](https://github.com/houseofjavascript/reading-notes/blob/main/Databases%20and%20SQL)
+  - [Terminal Practice]()
+  - [Data Strucutures and Algorithms Notes](https://github.com/houseofjavascript/reading-notes/blob/main/Data%20Structures%20and%20Algorithms)
   - [Engineering Reading](https://houseofjavascript.github.io/reading-notes/Engineering%20Reading)
 
 
