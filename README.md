@@ -13,7 +13,7 @@ Reading journal for Code fellows by Diontre
   - [Growth Mindset ](https://github.com/houseofjavascript/reading-notes/blob/main/Python%20401)
   - [SQL and Databases](https://github.com/houseofjavascript/reading-notes/blob/main/Databases%20and%20SQL)
   - [Terminal Practice]()
-  - [Data Strucutures and Algorithms Notes](https://github.com/houseofjavascript/reading-notes/blob/main/Data%20Structures%20and%20Algorithms)
+  - [Data Strucutures and Algorithms Notes](https://houseofjavascript.github.io/reading-notes/Data%20Structures%20and%20Algorithms)
   - [Engineering Reading](https://houseofjavascript.github.io/reading-notes/Engineering%20Reading)
 
 
