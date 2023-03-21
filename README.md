@@ -14,7 +14,7 @@ Reading journal for Code fellows by Diontre
   - ![SQL and Databases](https://github.com/houseofjavascript/reading-notes/blob/main/Databases%20and%20SQL)
   - ![Terminal Practice]()
   - ![Data Strucutures and Algorithms Notes](https://github.com/houseofjavascript/reading-notes/blob/main/Data%20Structures%20and%20Algorithms)
-  - ![Engineering Reading]()
+  - ![Engineering Reading](https://github.com/houseofjavascript/reading-notes/blob/54df1fac0f8d3f228c39985f57cd2637c00d2bdb/Engineering%20Reading)
 
 
 
