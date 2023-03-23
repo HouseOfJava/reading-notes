@@ -16,6 +16,7 @@ Reading journal for Code fellows by Diontre
   - [Data Strucutures and Algorithms Notes](https://houseofjavascript.github.io/reading-notes/Data%20Structures%20and%20Algorithms)
   - [Engineering Reading](https://houseofjavascript.github.io/reading-notes/Engineering%20Reading)
   - [Recursion](https://houseofjavascript.github.io/reading-notes/Class%2002)
+  - [Read & Write w/ Exceptions](https://houseofjavascript.github.io/reading-notes/Class%2003)
 
 
 
