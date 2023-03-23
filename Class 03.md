@@ -1,4 +1,4 @@
-#Read & Write w/ Exceptions
+# Read & Write w/ Exceptions
 
 To open a file, you can use the built-in open() function and specify the file path and mode of operation (e.g. read, write, append). Once the file is open, you can read its contents using the read() method, or write to it using the write() or writelines() methods. Finally, you should always close the file using the close() method to ensure that any changes are saved and resources are released.
 
