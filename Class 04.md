@@ -1,6 +1,6 @@
 # Classes & Objects
 
-classes are a way to define a blueprint for creating objects. A class is essentially a template or a set of instructions that defines the behavior and properties of objects that will be created from it.
+Classes are a way to define a blueprint for creating objects. A class is essentially a template or a set of instructions that defines the behavior and properties of objects that will be created from it.
 
 Objects, on the other hand, are instances of a class. They are created using the instructions provided by the class and can have their own unique values for the properties defined in the class.
 
