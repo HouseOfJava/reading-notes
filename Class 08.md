@@ -23,3 +23,7 @@ print(digits)
 Output
 
 [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+
+# Decorator 
+
+A decorator is a special type of function that can be used to modify or extend the behavior of another function without changing its source code. Decorators are often used to add extra functionality to existing functions, such as logging, timing, or caching.
