@@ -1,5 +1,5 @@
 
-List Comprehensions
+# List Comprehensions
 
 List comprehension is a powerful and concise method for creating lists in Python that becomes essential the more you work with lists, and lists of lists.
 
@@ -14,9 +14,9 @@ condition (optional) is a boolean expression that is evaluated for each item. If
 
 Example : Creating a list with list comprehensions
 
-# construct a basic list using range() and list comprehensions
-# syntax
-# [ expression for item in list ]
+construct a basic list using range() and list comprehensions
+syntax
+[ expression for item in list ]
 digits = [x for x in range(10)]
 
 print(digits)
