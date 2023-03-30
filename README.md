@@ -18,7 +18,7 @@ Reading journal for Code fellows by Diontre
   - [Recursion](https://houseofjavascript.github.io/reading-notes/Class%2002)
   - [Read & Write w/ Exceptions](https://houseofjavascript.github.io/reading-notes/Class%2003)
   - [Classes & Objects](https://houseofjavascript.github.io/reading-notes/Class%2004)
-  - [List Comprehension]([htt](https://houseofjavascript.github.io/reading-notes/Class%2008)
+  - [List Comprehension](https://houseofjavascript.github.io/reading-notes/Class%2008)
 
 
 
