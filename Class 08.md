@@ -27,3 +27,17 @@ Output
 # Decorator 
 
 A decorator is a special type of function that can be used to modify or extend the behavior of another function without changing its source code. Decorators are often used to add extra functionality to existing functions, such as logging, timing, or caching.
+
+Example 2: 
+
+def log_function(func):
+    def wrapper(*args, **kwargs):
+        print(f"Calling function {func.__name__}")
+        result = func(*args, **kwargs)
+        print(f"Finished calling function {func.__name__}")
+        return result
+    return wrapper
+
+@log_function
+def add_numbers(a, b):
+    return a + b
