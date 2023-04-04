@@ -26,13 +26,13 @@ A Series is a one-dimensional array-like object that can hold any data type such
 
 Describe the process of loading a dataset into a Pandas DataFrame. What are some common file formats that can be used, and which Pandas functions are utilized to read these formats?
 
-import pandas as pd
+```import pandas as pd```
 
-CSV: pd.read_csv()
+```CSV: pd.read_csv()
 Excel: pd.read_excel()
 SQL: pd.read_sql()
 JSON: pd.read_json()
-HTML: pd.read_html()
+HTML: pd.read_html()```
 
-df = pd.read_csv('mydata.csv')
+```df = pd.read_csv('mydata.csv')```
 
