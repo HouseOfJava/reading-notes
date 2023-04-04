@@ -20,6 +20,7 @@ Reading journal for Code fellows by Diontre
   - [Classes & Objects](https://houseofjavascript.github.io/reading-notes/Class%2004)
   - [List Comprehension](https://houseofpython.github.io/reading-notes/Class%2008)
   - [Data Analysis W/ Python](https://houseofpython.github.io/reading-notes/Class%2011)
+  - [Panda](https://houseofpython.github.io/reading-notes/Class%2012)
 
 
 
