@@ -22,37 +22,37 @@ ndim: Returns the number of dimensions of the array.
 
 To manipulate NumPy arrays, you can use various built-in functions such as reshape(), flatten(), transpose(), concatenate(), and split():
 
-# reshape an array
+reshape an array
 a = np.array([[1, 2], [3, 4], [5, 6]])
 b = a.reshape((2, 3))
 
-# flatten an array
+flatten an array
 c = a.flatten()
 
-# transpose an array
+transpose an array
 d = b.transpose()
 
-# concatenate arrays
+concatenate arrays
 e = np.concatenate((a, b), axis=1)
 
-# split an array
+split an array
 f, g = np.split(e, 2, axis=1)
 
 
 NumPy arrays also support various mathematical and statistical operations, such as element-wise arithmetic, matrix multiplication, and statistical functions:
 
-# element-wise arithmetic
+element-wise arithmetic
 a = np.array([1, 2, 3])
 b = np.array([4, 5, 6])
 c = a + b
 d = a * b
 
-# matrix multiplication
+matrix multiplication
 e = np.array([[1, 2], [3, 4]])
 f = np.array([[5, 6], [7, 8]])
 g = np.dot(e, f)
 
-# statistical functions
+statistical functions
 h = np.array([1, 2, 3, 4, 5])
 mean = np.mean(h)
 std = np.std(h)
