@@ -22,6 +22,7 @@ Reading journal for Code fellows by Diontre
   - [Data Analysis W/ Python](https://houseofpython.github.io/reading-notes/Class%2011)
   - [Panda](https://houseofpython.github.io/reading-notes/Class%2012)
   - [Linear Regression](https://houseofpython.github.io/reading-notes/Class%2013)
+  - [Data Visualization](https://houseofpython.github.io/reading-notes/Class%2014)
 
 
 
