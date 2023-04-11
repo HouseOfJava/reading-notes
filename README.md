@@ -23,6 +23,7 @@ Reading journal for Code fellows by Diontre
   - [Panda](https://houseofpython.github.io/reading-notes/Class%2012)
   - [Linear Regression](https://houseofpython.github.io/reading-notes/Class%2013)
   - [Data Visualization](https://houseofpython.github.io/reading-notes/Class%2014)
+  - [Serverless Functions](https://houseofpython.github.io/reading-notes/Class%2016)
 
 
 
