@@ -24,7 +24,7 @@ Reading journal for Code fellows by Diontre
   - [Linear Regression](https://houseofpython.github.io/reading-notes/Class%2013)
   - [Data Visualization](https://houseofpython.github.io/reading-notes/Class%2014)
   - [Serverless Functions](https://houseofpython.github.io/reading-notes/Class%2016)
-  - [Webscraping](https://github.com/houseofpython/reading-notes/blob/63c6417f27c5ce61199dc86f4a9bb2ed0afae6dd/Class%2017)
+  - [Webscraping](https://houseofpython.github.io/reading-notes/Class%2017)
 
 
 
