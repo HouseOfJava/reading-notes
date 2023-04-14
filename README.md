@@ -26,6 +26,7 @@ Reading journal for Code fellows by Diontre
   - [Serverless Functions](https://houseofpython.github.io/reading-notes/Class%2016)
   - [Webscraping](https://houseofpython.github.io/reading-notes/Class%2017)
   - [Cryptography](https://houseofpython.github.io/reading-notes/Class%2018)
+  - [Automation](https://houseofpython.github.io/reading-notes/Class%2019)
 
 
 
