@@ -27,6 +27,7 @@ Reading journal for Code fellows by Diontre
   - [Webscraping](https://houseofpython.github.io/reading-notes/Class%2017)
   - [Cryptography](https://houseofpython.github.io/reading-notes/Class%2018)
   - [Automation](https://houseofpython.github.io/reading-notes/Class%2019)
+  - [Django](https://houseofpython.github.io/reading-notes/Class%2020)
 
 
 
