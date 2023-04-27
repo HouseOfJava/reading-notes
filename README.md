@@ -29,6 +29,7 @@ Reading journal for Code fellows by Diontre
   - [Automation](https://houseofpython.github.io/reading-notes/Class%2019)
   - [Django](https://houseofpython.github.io/reading-notes/Class%2020)
   - [Django Crud And Forms](https://houseofpython.github.io/reading-notes/Class%2022)
+  - [DjangoX](https://houseofpython.github.io/reading-notes/Class%2023)
 
 
 
