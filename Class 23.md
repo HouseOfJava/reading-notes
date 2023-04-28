@@ -22,6 +22,46 @@ The main differences between a custom user model and the default Django User mod
 
 Explain the process of creating and implementing a Custom User Model in Django, including the necessary changes to settings.py and the required model fields.
 
+Create a new model that inherits from AbstractBaseUser and PermissionsMixin:
+python
 
+```
+from django.contrib.auth.models import AbstractBaseUser, PermissionsMixin
+from django.db import models
+
+
+class CustomUser(AbstractBaseUser, PermissionsMixin):
+    email = models.EmailField(unique=True)
+    name = models.CharField(max_length=30, blank=True)
+    is_active = models.BooleanField(default=True)
+    is_staff = models.BooleanField(default=False)
+    date_joined = models.DateTimeField(auto_now_add=True)
+
+    USERNAME_FIELD = 'email'
+    REQUIRED_FIELDS = ['name']
+
+    def __str__(self):
+        return self.email
+ ```
+In settings.py, specify the custom user model:
+python
+```
+AUTH_USER_MODEL = 'myapp.CustomUser'
+```
+Run migrations to create the necessary database tables:
+python manage.py makemigrations
+python manage.py migrate
+Update any references to the default User model to use the custom user model instead:
+python
+```
+from django.contrib.auth import get_user_model
+
+User = get_user_model()
+
+```
 
 What is DjangoX and how does it complement or extend the functionality of Django? Provide an example use case for incorporating DjangoX in a project.
+
+DjangoX is a set of extensions and add-ons for the Django web framework that aims to improve the development experience and provide additional functionality for building web applications.
+
+An example use case would be scaling up an application to meet the customer needs. This would allow for more debugging tools, enhanced authentication and authorization or entergration with popular front end tools such as React. 
