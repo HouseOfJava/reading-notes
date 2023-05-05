@@ -1,4 +1,4 @@
-#Django API Deployment 
+# Django API Deployment 
 
 What are the key principles to follow when organizing and configuring Django settings for a project, according to the “Django Settings Best Practices” reading?
 
