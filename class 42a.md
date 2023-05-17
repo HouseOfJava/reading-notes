@@ -1,3 +1,7 @@
+
+
+# Pythonisms
+
 What are dunder methods in Python, and how do they allow for the customization of built-in behavior in classes? Provide an example of a common dunder method and its purpose.
 
 Are special functions in a Python class that allow for the customization fo built-in behaviors. By implementing them into a class , you can define how that class responds to these operations. 
