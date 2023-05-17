@@ -30,7 +30,7 @@ Reading journal for Code fellows by Diontre
   - [Django](https://houseofpython.github.io/reading-notes/Class%2020)
   - [Django Crud And Forms](https://houseofpython.github.io/reading-notes/Class%2022)
   - [DjangoX](https://houseofpython.github.io/reading-notes/Class%2023)
-  - [Pythonisms](https://houseofpython.github.io/reading-notes/Class%2042a.md)
+  - [Pythonisms](https://houseofpython.github.io/reading-notes/Class%2042a)
 
 
 
